@@ -1,6 +1,6 @@
 # Notify PAGERDUTY AND SLACK
 
-:octocat: This function check status code - Set your URL's and notify with environment variables :octoctat:
+:octocat: This function check status code - Set your URL's and notify with environment variables :octocat:
 
 -------------------------------------------------------------------------------------------------
 
